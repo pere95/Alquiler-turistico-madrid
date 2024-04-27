@@ -9,7 +9,9 @@ En este proyecto se trabaja con datos reales extraídos de plataformas de alquil
 Las palancas son:
 
   1.Precio alquiler: cuanto más alto mejor
+  
   2. Ocupación: cuantos más días de ocupación tenga esa zona de la ciudad, mejor.
+    
   3. Precio compra: cuanto más bajo mejor.
 
 KPI's:
