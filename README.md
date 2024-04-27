@@ -17,5 +17,7 @@ Las palancas son:
 KPI's:
 
   1.Ocupación: numero de días que los apartamentos estan alquilados.
+  
   2. Precio alquiler: precio por noche.
+
   3. Precio compra: m2 del inmueble por eur/m2 del distrito en cuenstión. 
