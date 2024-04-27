@@ -8,16 +8,16 @@ En este proyecto se trabaja con datos reales extraídos de plataformas de alquil
 
 Las palancas son:
 
-  1.Precio alquiler: cuanto más alto mejor
+1.Precio alquiler: cuanto más alto mejor
   
-  2. Ocupación: cuantos más días de ocupación tenga esa zona de la ciudad, mejor.
+2. Ocupación: cuantos más días de ocupación tenga esa zona de la ciudad, mejor.
     
-  3. Precio compra: cuanto más bajo mejor.
+3. Precio compra: cuanto más bajo mejor.
 
 KPI's:
 
-  1.Ocupación: numero de días que los apartamentos estan alquilados.
+1.Ocupación: numero de días que los apartamentos estan alquilados.
   
-  2. Precio alquiler: precio por noche.
+2. Precio alquiler: precio por noche.
 
-  3. Precio compra: m2 del inmueble por eur/m2 del distrito en cuenstión. 
+3. Precio compra: m2 del inmueble por eur/m2 del distrito en cuenstión. 
